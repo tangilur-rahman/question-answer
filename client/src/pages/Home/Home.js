@@ -15,10 +15,6 @@ const Home = () => {
 							<span>1.</span>
 							<QuestionType1 />
 						</div>
-						<div className="question-section">
-							<span>1.</span>
-							<QuestionType1 />
-						</div>
 					</div>
 				</div>
 			</div>
