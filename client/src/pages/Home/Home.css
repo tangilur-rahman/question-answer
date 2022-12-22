@@ -27,11 +27,11 @@
 /* question-section style start  */
 .home-container .home-wrapper .question-section {
 	display: flex;
-	margin-top: 15px;
+	margin-top: 30px;
 }
 
 .home-container .home-wrapper .question-section#first-ques {
-	margin-top: 30px;
+	margin-top: 35px;
 }
 
 .home-container .home-wrapper .question-section span {

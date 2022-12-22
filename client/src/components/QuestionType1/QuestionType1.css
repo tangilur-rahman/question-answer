@@ -1,0 +1,44 @@
+.ques-type-1-container {
+	flex-grow: 1;
+}
+
+.ques-type-1-container .ques-type-1-wrapper {
+	display: flex;
+	flex-direction: column;
+}
+
+/* title style start  */
+.ques-type-1-container .ques-type-1-wrapper .title {
+	color: #d90429;
+	font-size: 20px;
+	font-weight: 600;
+	word-spacing: 3px;
+}
+/* title style end */
+
+/* paragraph style start  */
+.ques-type-1-container .ques-type-1-wrapper .paragraph {
+	margin-top: 7px;
+	line-height: 30px;
+}
+
+.ques-type-1-container .ques-type-1-wrapper .paragraph label {
+	font-weight: 600;
+	cursor: pointer;
+}
+
+.ques-type-1-container .ques-type-1-wrapper .paragraph input {
+	background-color: transparent;
+	border: none;
+	border-bottom: 2px solid #8d99ae;
+	text-align: center;
+	min-width: 80px;
+	font-weight: 600;
+	color: #335c67;
+	padding: 0 10px;
+}
+
+.ques-type-1-container .ques-type-1-wrapper .paragraph input:focus {
+	outline: none;
+}
+/* paragraph style end */
